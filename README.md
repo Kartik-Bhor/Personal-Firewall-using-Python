@@ -71,6 +71,7 @@ Further packets from that IP are ignored, but an alert is shown every 2 minutes 
 📂 Project Structure
 
 personal-firewall/
+
 ├── main.py               # Entry point with menu and sniffer
 
 ├── rule_engine.py        # Rule parsing and evaluation
