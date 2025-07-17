@@ -94,7 +94,7 @@ scapy, iptables
 
 Installation
 
-git clone https://github.com/yourusername/personal-firewall
+git clone https://github.com/Kartik-Bhor/Personal-Firewall-using-Python.git
 cd personal-firewall
 pip install scapy
 sudo python3 main.py
