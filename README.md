@@ -72,10 +72,15 @@ Further packets from that IP are ignored, but an alert is shown every 2 minutes 
 
 personal-firewall/
 ├── main.py               # Entry point with menu and sniffer
+
 ├── rule_engine.py        # Rule parsing and evaluation
+
 ├── auto_blocker.py       # Suspicious behavior detection
+
 ├── iptables_wrapper.py   # Kernel-level IP blocking
+
 ├── logger.py             # Block log to file
+
 ├── rules.json            # Your custom rules
 
 
