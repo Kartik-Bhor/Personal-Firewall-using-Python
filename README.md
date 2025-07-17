@@ -147,5 +147,5 @@ Cloud-based rule sync
 📚 Credits
 
 Built by Kartik Bhor using Python, Linux, and Scapy.
-With the support of AI tools for brainstorming and code structure optimization.
+With the support of AI tools for generating modular and maintainable python scripts and code structure optimization.
 
